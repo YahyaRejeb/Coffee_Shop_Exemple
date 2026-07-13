@@ -1,0 +1,1 @@
+Generate a downloadable ZIP archive of the current project source code and save it to /mnt/documents. The ZIP will exclude runtime artifacts like node_modules, .git, and dist/build outputs, and will include the full src/, public/, config, and metadata files so the project can be opened locally.
